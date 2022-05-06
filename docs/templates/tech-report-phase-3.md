@@ -118,7 +118,7 @@ Para a gestão das ligações existe a classe `TransactionManager` que recebe a 
 
 A implementação desta class tem em vista simplificar e evitar repetição de código nas classes de acesso a dados e evitando a repetição dos seguintes processos:
 
-    • Abrir a conexão
+	• Abrir a conexão
     • Inicio e commit da transação
     • Controlo transacional
     • Fechar todos os recursos

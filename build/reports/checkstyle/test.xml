@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/ExampleTest.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/handlers/ActivitiesTest.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/handlers/RoutesTest.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/handlers/SportsTest.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/handlers/Users.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/utils/ConnectionUtils.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/utils/TransactionCallbackTests.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/utils/TransactionManagerTest.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/visual/HtmlTest.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/test/java/pt/isel/ls/visual/JsonTest.java">
+</file>
+</checkstyle>

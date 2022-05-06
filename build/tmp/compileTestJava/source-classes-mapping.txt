@@ -1,0 +1,20 @@
+pt/isel/ls/utils/TransactionCallbackTests.java
+ pt.isel.ls.utils.TransactionCallbackTests
+pt/isel/ls/handlers/ActivitiesTest.java
+ pt.isel.ls.handlers.ActivitiesTest
+pt/isel/ls/handlers/SportsTest.java
+ pt.isel.ls.handlers.SportsTest
+pt/isel/ls/utils/TransactionManagerTest.java
+ pt.isel.ls.utils.TransactionManagerTest
+pt/isel/ls/visual/JsonTest.java
+ pt.isel.ls.visual.JsonTest
+pt/isel/ls/visual/HtmlTest.java
+ pt.isel.ls.visual.HtmlTest
+pt/isel/ls/handlers/RoutesTest.java
+ pt.isel.ls.handlers.RoutesTest
+pt/isel/ls/utils/ConnectionUtils.java
+ pt.isel.ls.utils.ConnectionUtils
+pt/isel/ls/ExampleTest.java
+ pt.isel.ls.ExampleTest
+pt/isel/ls/handlers/Users.java
+ pt.isel.ls.handlers.Users

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/App.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/dao/ActivitiesDao.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/dao/RoutesDao.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/dao/SportsDao.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/dao/UsersDao.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/exceptions/ParameterException.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/CommandHandler.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/CommandRequest.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/CommandResult.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/FileType.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/Close.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/Exit.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/Home.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/Listen.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/Option.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/activities/DeleteActivities.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/activities/GetActivitiesById.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/activities/GetActivitiesBySport.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/activities/GetActivitiesByTops.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/activities/GetActivitiesByUser.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/activities/PostActivities.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/route/GetRoutes.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/route/GetRoutesById.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/route/PostRoutes.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/sports/GetSports.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/sports/GetSportsById.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/sports/PostSports.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/user/GetUsers.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/user/GetUsersById.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/handlers/commands/user/PostUsers.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/http/AppServlet.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/http/HttpPool.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/http/HttpServerApplication.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/http/TimeServlet.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/http/TimeServletApp.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/model/Activity.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/model/Routes.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/model/Sport.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/model/User.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/Header.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/Method.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/Parameters.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/Path.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/PathTemplate.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/Route.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/RouteResult.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/Router.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/TransactionCallback.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/router/TransactionManager.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/Element.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/HtmlNode.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/HtmlText.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/HtmlView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/TableFormat.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/ActivitiesByIdHtmlView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/ActivitiesBySportHtml.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/ActivitiesHtmlView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/HomeView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/NavigationBarView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/RouteByIdView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/RoutesHtmlView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/SportsByIdView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/SportsHtmlView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/UsersByIdView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/html/UsersHtmlView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/json/JsonActivityView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/json/JsonRouteView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/json/JsonSportView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/json/JsonUserView.java">
+</file>
+<file name="/Users/franciscomelo/IdeaProjects/isel-ls-2021-2-g2/src/main/java/pt/isel/ls/view/json/JsonView.java">
+</file>
+</checkstyle>

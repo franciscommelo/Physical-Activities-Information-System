@@ -1,0 +1,140 @@
+pt/isel/ls/router/RouteResult.java
+ pt.isel.ls.router.RouteResult
+pt/isel/ls/handlers/commands/Listen.java
+ pt.isel.ls.handlers.commands.Listen
+pt/isel/ls/App.java
+ pt.isel.ls.App
+pt/isel/ls/view/html/SportsByIdView.java
+ pt.isel.ls.view.html.SportsByIdView
+pt/isel/ls/handlers/commands/route/PostRoutes.java
+ pt.isel.ls.handlers.commands.route.PostRoutes
+pt/isel/ls/handlers/CommandResult.java
+ pt.isel.ls.handlers.CommandResult
+pt/isel/ls/handlers/commands/Home.java
+ pt.isel.ls.handlers.commands.Home
+pt/isel/ls/handlers/commands/Exit.java
+ pt.isel.ls.handlers.commands.Exit
+pt/isel/ls/view/html/HomeView.java
+ pt.isel.ls.view.html.HomeView
+pt/isel/ls/view/html/ActivitiesBySportHtml.java
+ pt.isel.ls.view.html.ActivitiesBySportHtml
+pt/isel/ls/view/json/JsonSportView.java
+ pt.isel.ls.view.json.JsonSportView
+pt/isel/ls/router/TransactionCallback.java
+ pt.isel.ls.router.TransactionCallback
+pt/isel/ls/router/Path.java
+ pt.isel.ls.router.Path
+pt/isel/ls/view/html/UsersByIdView.java
+ pt.isel.ls.view.html.UsersByIdView
+pt/isel/ls/view/HtmlNode.java
+ pt.isel.ls.view.HtmlNode
+pt/isel/ls/view/TableFormat.java
+ pt.isel.ls.view.TableFormat
+pt/isel/ls/view/html/ActivitiesByIdHtmlView.java
+ pt.isel.ls.view.html.ActivitiesByIdHtmlView
+pt/isel/ls/http/AppServlet.java
+ pt.isel.ls.http.AppServlet
+pt/isel/ls/model/Sport.java
+ pt.isel.ls.model.Sport
+pt/isel/ls/view/json/JsonActivityView.java
+ pt.isel.ls.view.json.JsonActivityView
+pt/isel/ls/handlers/commands/sports/GetSports.java
+ pt.isel.ls.handlers.commands.sports.GetSports
+pt/isel/ls/dao/UsersDao.java
+ pt.isel.ls.dao.UsersDao
+pt/isel/ls/router/Parameters.java
+ pt.isel.ls.router.Parameters
+pt/isel/ls/dao/SportsDao.java
+ pt.isel.ls.dao.SportsDao
+pt/isel/ls/router/TransactionManager.java
+ pt.isel.ls.router.TransactionManager
+pt/isel/ls/handlers/CommandHandler.java
+ pt.isel.ls.handlers.CommandHandler
+pt/isel/ls/dao/RoutesDao.java
+ pt.isel.ls.dao.RoutesDao
+pt/isel/ls/http/TimeServlet.java
+ pt.isel.ls.http.TimeServlet
+pt/isel/ls/exceptions/ParameterException.java
+ pt.isel.ls.exceptions.ParameterException
+pt/isel/ls/model/User.java
+ pt.isel.ls.model.User
+pt/isel/ls/handlers/commands/Close.java
+ pt.isel.ls.handlers.commands.Close
+pt/isel/ls/handlers/CommandRequest.java
+ pt.isel.ls.handlers.CommandRequest
+pt/isel/ls/view/html/RouteByIdView.java
+ pt.isel.ls.view.html.RouteByIdView
+pt/isel/ls/handlers/commands/Option.java
+ pt.isel.ls.handlers.commands.Option
+pt/isel/ls/view/html/RoutesHtmlView.java
+ pt.isel.ls.view.html.RoutesHtmlView
+pt/isel/ls/handlers/commands/user/GetUsers.java
+ pt.isel.ls.handlers.commands.user.GetUsers
+pt/isel/ls/view/json/JsonUserView.java
+ pt.isel.ls.view.json.JsonUserView
+pt/isel/ls/router/Route.java
+ pt.isel.ls.router.Route
+pt/isel/ls/view/HtmlText.java
+ pt.isel.ls.view.HtmlText
+pt/isel/ls/router/Method.java
+ pt.isel.ls.router.Method
+pt/isel/ls/view/html/SportsHtmlView.java
+ pt.isel.ls.view.html.SportsHtmlView
+pt/isel/ls/router/PathTemplate.java
+ pt.isel.ls.router.PathTemplate
+pt/isel/ls/model/Routes.java
+ pt.isel.ls.model.Routes
+pt/isel/ls/view/html/NavigationBarView.java
+ pt.isel.ls.view.html.NavigationBarView
+pt/isel/ls/model/Activity.java
+ pt.isel.ls.model.Activity
+pt/isel/ls/view/Element.java
+ pt.isel.ls.view.Element
+pt/isel/ls/view/json/JsonRouteView.java
+ pt.isel.ls.view.json.JsonRouteView
+pt/isel/ls/http/HttpPool.java
+ pt.isel.ls.http.HttpPool
+pt/isel/ls/handlers/commands/user/PostUsers.java
+ pt.isel.ls.handlers.commands.user.PostUsers
+pt/isel/ls/view/HtmlView.java
+ pt.isel.ls.view.HtmlView
+pt/isel/ls/router/Header.java
+ pt.isel.ls.router.Header
+pt/isel/ls/router/Router.java
+ pt.isel.ls.router.Router
+pt/isel/ls/handlers/commands/route/GetRoutesById.java
+ pt.isel.ls.handlers.commands.route.GetRoutesById
+pt/isel/ls/view/html/ActivitiesHtmlView.java
+ pt.isel.ls.view.html.ActivitiesHtmlView
+pt/isel/ls/handlers/FileType.java
+ pt.isel.ls.handlers.FileType
+pt/isel/ls/view/json/JsonView.java
+ pt.isel.ls.view.json.JsonView
+pt/isel/ls/view/html/UsersHtmlView.java
+ pt.isel.ls.view.html.UsersHtmlView
+pt/isel/ls/handlers/commands/route/GetRoutes.java
+ pt.isel.ls.handlers.commands.route.GetRoutes
+pt/isel/ls/http/TimeServletApp.java
+ pt.isel.ls.http.TimeServletApp
+pt/isel/ls/handlers/commands/sports/PostSports.java
+ pt.isel.ls.handlers.commands.sports.PostSports
+pt/isel/ls/http/HttpServerApplication.java
+ pt.isel.ls.http.HttpServerApplication
+pt/isel/ls/handlers/commands/activities/GetActivitiesById.java
+ pt.isel.ls.handlers.commands.activities.GetActivitiesById
+pt/isel/ls/handlers/commands/activities/DeleteActivities.java
+ pt.isel.ls.handlers.commands.activities.DeleteActivities
+pt/isel/ls/handlers/commands/activities/GetActivitiesBySport.java
+ pt.isel.ls.handlers.commands.activities.GetActivitiesBySport
+pt/isel/ls/handlers/commands/activities/GetActivitiesByTops.java
+ pt.isel.ls.handlers.commands.activities.GetActivitiesByTops
+pt/isel/ls/handlers/commands/sports/GetSportsById.java
+ pt.isel.ls.handlers.commands.sports.GetSportsById
+pt/isel/ls/dao/ActivitiesDao.java
+ pt.isel.ls.dao.ActivitiesDao
+pt/isel/ls/handlers/commands/user/GetUsersById.java
+ pt.isel.ls.handlers.commands.user.GetUsersById
+pt/isel/ls/handlers/commands/activities/GetActivitiesByUser.java
+ pt.isel.ls.handlers.commands.activities.GetActivitiesByUser
+pt/isel/ls/handlers/commands/activities/PostActivities.java
+ pt.isel.ls.handlers.commands.activities.PostActivities
